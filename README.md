@@ -4,7 +4,7 @@ Hearts: a mixture model for count data (VOL2) -- PVCs' count
 
 ### Files 
 ▶️ *MH_algorithm* : Algorithme avec Metropolis-Hastings seulement.  
-▶️ *Essai1_Gibbs* : Première tentatives d'un algorithme MCMC avec echantilloneur de Gibbs.  
+▶️ *Essai1_Gibbs* : Première tentative d'un algorithme MCMC avec échantillonneur de Gibbs.  
 ▶️ *Gibbs_final* : Notebook final avec résultats.  
 
 
